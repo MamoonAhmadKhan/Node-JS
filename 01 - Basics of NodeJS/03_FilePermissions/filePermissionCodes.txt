@@ -1,0 +1,7 @@
+read : r
+write : w
+execute : x
+
+read : 4
+write : 2
+execute : 1
